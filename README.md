@@ -8,4 +8,4 @@
   3. Close the window once the curved has been created with the desired shape. The application will automatically create a surface of rotation and save the corresponding mesh in "mesh.off".
 
 # Viewing the mesh:
-  1. To view the mesh, run any mesh viewer with the "mesh.off" file. To run the file with Geomview, execute the following command: `geomview mesh.off`
+  1. To view the mesh, run any mesh viewer with the "mesh.off" file. To run the file with Geomview, execute the following command: `$ geomview mesh.off`
