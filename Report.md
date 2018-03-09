@@ -4,7 +4,8 @@ This repository contains an implementation of de Casteljau's algorithm for gener
 # The User Interface
 I've used FreeGLUT to create a window for creating, displaying and editing the curve. The user can add a control point by left-clicking on the desired point in the window. A control point can be moved by right-clicking on it and dragging it to the desired location. To delete a control point, the user can simply click on it with the middle mouse button. Following is a picture of the window:
 
-![The window](img/window-example.png "The window")
+<img src="img/window-example.png">
+
 
 # Discussion
 ## De Casteljau's Algorithm
@@ -125,7 +126,7 @@ return: Mesh containing the surface of revolution
 
 # Results
 Here are a few of the curves as displayed in our user interface and their corresponding surfaces of revolution in Geomview:
-  1. ![Example 1](img/1.png "Example 1")![Example 1](img/11.png "Example 1")
-  2. ![Example 2](img/2.png "Example 2")![Example 2](img/21.png "Example 2")
-  3. ![Example 3](img/3.png "Example 3")![Example 3](img/31.png "Example 3")
+1. <img src="img/1.png" width="400px" /> <img src="img/11.png" width="400px" />
+2. <img src="img/2.png" width="400px" /> <img src="img/21.png" width="400px" />
+3. <img src="img/3.png" width="400px" /> <img src="img/31.png" width="400px" />
 
