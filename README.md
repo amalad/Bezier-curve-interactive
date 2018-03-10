@@ -1,3 +1,6 @@
+# Bezier Curve Interactive 
+[Report](https://github.com/amalad/Bezier_curve_interactive/blob/master/Report.md)
+
 # Compilation instructions
   1. cd into the project folder
   2. Execute the following commands from the command line: `$ g++ -std=c++11 bezier1.cpp BezierCurve.cpp Mesh.cpp Vertex3f.cpp -lGL -lGLU -lglut`
